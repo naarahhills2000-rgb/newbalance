@@ -1,0 +1,162 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.newbalance-section {
+    height: 120vh;
+    width: 100%;
+    border: 1px solid red;
+    background-color: linear-gradient(gray, white);
+    position: relative;
+}
+
+.newbalance-header-wrapper {
+    height: 50vh;
+    width: 60%;
+    border: 1px solid red;
+    position: absolute;
+    top: 10%;
+    left: 6%;
+}
+
+.newbalance-header-image {
+    height: 70vh;
+    width: 60%;
+    border: 1px solid blue;
+    position: absolute;
+    bottom: 6%;
+    left: 35%;
+}
+
+.newbalance-service-section {
+    height: 85vh;
+    width: 100%;
+    display: flex;
+    border: 1px solid black;
+}
+
+.running-service {
+    width: 22%;
+    height: 100%;
+    background-image: url(./images/run.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-origin: top;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+.display-text {
+    width: 50%;
+    height: 10%;
+}
+
+.display-text h4 {
+    color: white;
+    border: 1px solid blue;
+    font-size: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: 700;
+    line-height: 1.2;
+    text-align: center;
+    font-family: "Century Gothic", sans serif;
+}
+
+.studio-service {
+    width: 26%;
+    height: 100%;
+    background-image: url(./images/split\ woman.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-origin: top;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+.lifestyle-service {
+    width: 23.5%;
+    height: 100%;
+    background-image: url(./images/sit-woman.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-origin: top;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+.training-service {
+    width: 23.5%;
+    height: 100%;
+    background-image: url(./images/woman-leg-spread.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-origin: top;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+.cycling-service {
+    width: 26%;
+    height: 100%;
+    background-image: url(./images/cycle.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-origin: top;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+.newbalance247-section {
+    height: 78vh;
+    width: 100%;
+    background-image: url(./images/NewBalance-shoe-2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.newbalance247-container {
+    border: 1px solid black;
+    height: fit-content;
+    width: fit-content;
+}
+
+.new-collection-text h4 {
+    color: white;
+    font-family: "Century Gothic", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.classic-text {
+    margin-bottom: ;
+}
+
+.classic-text h2 {
+    color: #ffff;
+    font-size: 3rem;
+    line-height: 1.1;
+    font-family: "Ubuntu Sans", sans-serif;
+}
