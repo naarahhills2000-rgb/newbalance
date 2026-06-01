@@ -47,8 +47,7 @@ html {
     background-image: url(./images/run.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: left;
-    background-origin: top;
+    background-position: 0% 50%;
     display: flex;
     justify-content: center;
     align-items: end;
@@ -77,8 +76,7 @@ html {
     background-image: url(./images/split\ woman.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: left;
-    background-origin: top;
+    background-position: 0% 50%;
     display: flex;
     justify-content: center;
     align-items: end;
@@ -90,8 +88,7 @@ html {
     background-image: url(./images/sit-woman.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: left;
-    background-origin: top;
+    background-position: 0% 50%;
     display: flex;
     justify-content: center;
     align-items: end;
@@ -103,8 +100,7 @@ html {
     background-image: url(./images/woman-leg-spread.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: left;
-    background-origin: top;
+    background-position: 0% 50%;
     display: flex;
     justify-content: center;
     align-items: end;
@@ -116,8 +112,7 @@ html {
     background-image: url(./images/cycle.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: left;
-    background-origin: top;
+    background-position: 0% 50%;
     display: flex;
     justify-content: center;
     align-items: end;
